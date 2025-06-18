@@ -28,7 +28,14 @@ The following **additional** features are implemented:
 - [x] Goal word resets correctly when alien mode is active
 
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/66bbf29427fb47328ad258cd15a5a8d0">
+      <p>Videos | Library | Loom - 17 June 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/66bbf29427fb47328ad258cd15a5a8d0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/66bbf29427fb47328ad258cd15a5a8d0-85f4a933a0efc789-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
